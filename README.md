@@ -5,7 +5,7 @@ El siguiente documento contiene el análisis realizado y la solucion entregada p
 
 Los diferentes planes diseñados por la empresa Previniendo riesgos presentan una estructura que en tèrminos generales es:
 
-Objetivo general
+Objetivo general<br>
   Objetivos específico 1
     Actividad 1.1
       Cumplimiento 1.1
