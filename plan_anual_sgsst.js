@@ -6,6 +6,8 @@
  * @category        Jasvascript
  * @author          Answecpi.com 
  * @author          JUAN CAMILO ATEHORTUA ZULUAGA
+ * @author          ANDERSON DANILO BETANCOURT
+ * @author          JUAN CARLOS GUTIERREZ MARTINEZ
  * @link            http://answercpi.com
  * @version         Current v1.0.0 
  * @copyright       Copyright (c) 2010 - 2015 answercpi.com
