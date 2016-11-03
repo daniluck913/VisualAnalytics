@@ -8,11 +8,6 @@
  * @author          JUAN CAMILO ATEHORTUA ZULUAGA
  * @author          ANDERSON DANILO BETANCOURT
  * @author          JUAN CARLOS GUTIERREZ MARTINEZ
- * @link            http://answercpi.com
- * @version         Current v1.0.0 
- * @copyright       Copyright (c) 2010 - 2016 answercpi.com
- * @license         Comercial
- * @since           12/05/2016
  */
 var g;
 
