@@ -38,3 +38,6 @@ http://desarrollo.sarcontrolacceso.com/pdf/plan_anual_sgsst1477877293.pdf
 PLan Anual de Capacitación:<br>
 http://desarrollo.sarcontrolacceso.com/pdf/plan_anual_sgsst1477877231.pdf
 
+Documento Trabajo Final:
+https://docs.google.com/document/d/1Je3R8bdceqBHpDSbvazhlMz7kMDaqheycO-D4Y0YXTs/edit?usp=sharing
+
