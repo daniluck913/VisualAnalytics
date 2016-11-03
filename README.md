@@ -23,18 +23,18 @@ Objetivo general
 
 Se desea poder visualizar los avances que tiene cada uno de los planes discriminado por los objetivos. Así mismo el cliente presenta reportes en PDF los cuales muestran de forma detallada los avances en cada uno de los planes 
 
-Plan De Trabajo COPASST (Comité Paritario de Seguridad y Salud en el Trabajo)
+Plan De Trabajo COPASST (Comité Paritario de Seguridad y Salud en el Trabajo):
 http://desarrollo.sarcontrolacceso.com/pdf/plan_anual_sgsst1477877204.pdf
 
 
-Plan De SST (Seguridad y Salud en el Trabajo)
+Plan De SST (Seguridad y Salud en el Trabajo):
 http://desarrollo.sarcontrolacceso.com/pdf/plan_anual_sgsst1477877012.pdf
 
 
-Plan De Comite de Convivencia Laboral
+Plan De Comite de Convivencia Laboral:
 http://desarrollo.sarcontrolacceso.com/pdf/plan_anual_sgsst1477877293.pdf
 
 
-PLan Anual de Capacitación
+PLan Anual de Capacitación:
 http://desarrollo.sarcontrolacceso.com/pdf/plan_anual_sgsst1477877231.pdf
 
