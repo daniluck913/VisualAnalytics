@@ -4,7 +4,7 @@ Visual Analytics UTP Proyecto Final (Camilo, Juan Carlos, Danilo)
 El siguiente documento contiene el análisis realizado y la solucion entregada para suplir la necesidad que presentó el cliente http://www.previniendoriesgos.com.co/ quien requiere visualizar los diferentes planes que pueden diseñarse y ejecutarse en un Sistema de Gestion de Seguridad y Salud en el Trabajo.
 
 Los diferentes planes diseñados por la empresa Previniendo riesgos presentan una estructura que en tèrminos generales es:
-
+<pre>
 Objetivo general<br>
   Objetivos específico 1<br>
     Actividad 1.1<br>
@@ -20,7 +20,7 @@ Objetivo general<br>
     Actividad n<br>
       Cumplimiento n.1<br>
       Cumplimiento n n<br>
-
+</pre>
 Se desea poder visualizar los avances que tiene cada uno de los planes discriminado por los objetivos. Así mismo el cliente presenta reportes en PDF los cuales muestran de forma detallada los avances en cada uno de los planes 
 
 Plan De Trabajo COPASST (Comité Paritario de Seguridad y Salud en el Trabajo):<br>
